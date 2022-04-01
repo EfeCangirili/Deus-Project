@@ -1,0 +1,16 @@
+{    
+    "folders": [
+        {
+            "name": "deus",
+            "path": "."
+        }
+    ],
+    "settings": {
+        "cSpell.words": [
+            "Behaviour",
+            "Lerp",
+            "Mathf",
+            "Nethereum"
+        ]
+    },
+}
